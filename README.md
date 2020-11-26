@@ -1,2 +1,2 @@
 # ecommerce_repo
-My portfolio app
+My ecommerce app
